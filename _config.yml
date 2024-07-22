@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ENGL4814
 email:
-description: "Experiments"
+description: "Our final project template"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
