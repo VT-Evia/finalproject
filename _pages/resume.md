@@ -3,4 +3,4 @@ permalink: /resume/
 title: "Résumé"
 ---
 
-# This is my résumé
+## This is my résumé
