@@ -16,8 +16,9 @@
 title: ENGL4814
 email:
 description: "Our final project template"
-twitter_username: username
+linkedin_username: username
 github_username: username
+instagram_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -77,6 +78,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/"
+
 
 defaults:
   # _posts
